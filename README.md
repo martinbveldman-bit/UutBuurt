@@ -23,7 +23,7 @@ Dit is het vaste startpunt voor het aanpassen van het **UutBuurt op de Dèle-log
 
 ## Privébestanden en openbare repository
 
-Deze repository is openbaar. De bestaande PDF’s en afbeeldingen staan hier **niet** in. De versielijst verwijst naar de privébestanden in ChatGPT; openen vereist toegang tot het juiste account. De verwijzingen verlenen geen toegang en maken de bestanden niet openbaar.
+Deze repository is openbaar. De bestaande PDF’s en afbeeldingen staan hier **niet** in. De versielijst noemt alleen de exacte bestandsnamen en hun status. Er staan geen privélinks of bestandsidentificaties in deze repository. Zoek de PDF’s in de bestandsbibliotheek van je eigen ChatGPT-account.
 
 Publiceer geen PDF, afbeelding, voorvertoning, bijlage of downloadkopie zonder voorafgaande toestemming voor de betreffende bestanden. Goedkeuring van een ontwerp is geen toestemming tot openbare publicatie. Ook GitHub-issues, pull requests en eerdere commits kunnen openbaar zijn.
 
@@ -32,8 +32,8 @@ Publiceer geen PDF, afbeelding, voorvertoning, bijlage of downloadkopie zonder v
 1. Open https://github.com/martinbveldman-bit/UutBuurt in Safari of Chrome.
 2. Bewaar deze pagina als bladwijzer met de naam **UutBuurt-logoarchief**.
 3. Klik hierboven op **Open de versielijst**.
-4. Open het gewenste privébestand en log zo nodig in op het eigen ChatGPT-account.
+4. Open ChatGPT met je eigen account, ga naar de bestandsbibliotheek en zoek op de exacte bestandsnaam uit de versielijst.
 
 Download voor lokaal bewerken de gekozen PDF. Maak in Finder bijvoorbeeld een map **UutBuurt-logoarchief** met submappen **00_Origineel**, **01_Werkversies** en **02_Goedgekeurd**. Bewaar de originelen in de eerste map; maak vóór iedere bewerking een kopie met een nieuw versienummer. Deze lokale mappen zijn nog niet op je iMac aangemaakt.
 
-De GitHub-startpagina en versielijst geven overzicht; de privébestanden blijven de bronbestanden. Een link is geen extra reservekopie.
+De GitHub-startpagina en versielijst geven overzicht; de privébestanden blijven de bronbestanden. Dit register is geen extra reservekopie van de PDF’s.
