@@ -1,0 +1,19 @@
+# Privé-logo's mogen niet per ongeluk met git add worden toegevoegd.
+# Dit is een hulpmiddel, geen toegangsbeveiliging: webuploads en git add -f omzeilen dit.
+# Publicatie van beeldbestanden vereist altijd voorafgaande expliciete toestemming.
+*.[pP][dD][fF]
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[sS][vV][gG]
+*.[wW][eE][bB][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[hH][eE][iI][cC]
+*.[gG][iI][fF]
+*.[pP][sS][dD]
+*.[aA][iI]
+*.zip
+privé/
+prive/
+.DS_Store
