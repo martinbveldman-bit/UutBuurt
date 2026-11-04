@@ -13,6 +13,6 @@
 
 Dit register bevat alleen de bestandsnaam, de goedkeuring en de afspraken. Het MP4-bestand zelf staat buiten GitHub. Het register biedt geen reservekopie van de video.
 
-De download naar het bureaublad van de iMac is aangevraagd. Lokale opslag op de iMac is nog niet bevestigd.
+Op 4 november 2026 heeft de gebruiker bevestigd dat het MP4-bestand lokaal op het bureaublad van de iMac staat.
 
 Publiceer videobestanden alleen na afzonderlijke toestemming. De repository is openbaar.
