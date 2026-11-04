@@ -4,6 +4,8 @@ Dit is het vaste startpunt voor het aanpassen van het **UutBuurt op de Dèle-log
 
 **[Open de versielijst](logo/VERSIES.md)** · **[Nieuwe versie vastleggen](logo/NIEUWE_VERSIE.md)**
 
+**Filmproject** · [Open het versieregister van de UutBuurt-wolkenanimatie](wolkenanimatie/VERSIES.md)
+
 ## Huidige stand — 29 oktober 2026
 
 - Het oorspronkelijke aangeleverde logo blijft altijd ongewijzigd bewaard.
