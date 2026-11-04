@@ -1,0 +1,18 @@
+# Versieregister UutBuurt-wolkenanimatie
+
+| Versie | Bestandsnaam | Goedgekeurd | Gebruik |
+| --- | --- | --- | --- |
+| Origineel | `UutBuurt_wolkenanimatie_luchtig_16x9.mp4` | 3 november 2026 | Vaste uitgangsversie voor de iMovie-montage van het filmproject UutBuurt op de Dèle in Lieren. Luchtige wolkenanimatie met tractor. |
+
+## Volgende uitvoeringen
+
+- Bewaar het originele MP4-bestand ongewijzigd onder de afgesproken bestandsnaam.
+- Bewerk een kopie. Sla elke volgende uitvoering apart op met een eigen oplopend versienummer (`v01`, `v02`, enzovoort) en voeg die toe aan dit register.
+
+## Opslag en publicatie
+
+Dit register bevat alleen de bestandsnaam, de goedkeuring en de afspraken. Het MP4-bestand zelf staat buiten GitHub. Het register biedt geen reservekopie van de video.
+
+De download naar het bureaublad van de iMac is aangevraagd. Lokale opslag op de iMac is nog niet bevestigd.
+
+Publiceer videobestanden alleen na afzonderlijke toestemming. De repository is openbaar.
