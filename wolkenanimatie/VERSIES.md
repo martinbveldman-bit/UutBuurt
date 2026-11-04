@@ -3,7 +3,6 @@
 | Versie | Bestandsnaam | Goedgekeurd | Gebruik |
 | --- | --- | --- | --- |
 | Origineel | `UutBuurt_wolkenanimatie_luchtig_16x9.mp4` | 3 november 2026 | Vaste uitgangsversie voor de iMovie-montage van het filmproject UutBuurt op de Dèle in Lieren. Luchtige wolkenanimatie met tractor. |
-
 | v01 | `UutBuurt_wolkenanimatie_luchtig_v01_transparant.mov` | Nog niet goedgekeurd | Transparante bovenlaag voor iMovie, afgeleid van het origineel. |
 
 ## Volgende uitvoeringen
